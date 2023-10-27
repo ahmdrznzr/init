@@ -1,2 +1,2 @@
-# init
+# my init
 My first repository
